@@ -1,6 +1,5 @@
 # DS-Problems-List-Solution
 
-# DS-Problems-List-Solution
 This list covers all the topics of Data Structures and Algorithms. In every topic, all the questions have
 been ranked from low to high with few exceptions. There are more than 250+ problems in this list.
 
