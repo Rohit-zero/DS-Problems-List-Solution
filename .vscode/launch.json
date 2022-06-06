@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Check_array_is_sorted_or_not",
+            "request": "launch",
+            "mainClass": "Check_array_is_sorted_or_not",
+            "projectName": "DS-Problems-List-Solution_5793b33c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leaders_in_the_array",
+            "request": "launch",
+            "mainClass": "Leaders_in_the_array",
+            "projectName": "DS-Problems-List-Solution_5793b33c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximum_difference_problem_in_array",
+            "request": "launch",
+            "mainClass": "Maximum_difference_problem_in_array",
+            "projectName": "DS-Problems-List-Solution_5793b33c"
+        },
+        {
+            "type": "java",
+            "name": "Launch mattrix_transpose",
+            "request": "launch",
+            "mainClass": "mattrix_transpose",
+            "projectName": "DS-Problems-List-Solution_5793b33c"
+        },
+        {
+            "type": "java",
+            "name": "Launch min_max_element_from_the_array",
+            "request": "launch",
+            "mainClass": "min_max_element_from_the_array",
+            "projectName": "DS-Problems-List-Solution_5793b33c"
+        }
+    ]
+}
